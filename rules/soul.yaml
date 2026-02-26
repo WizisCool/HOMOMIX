@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN-SUFFIX,soulapp.cn
+  - DOMAIN,api.map.baidu.com
+  - DOMAIN,apmplus.volces.com
+  - DOMAIN,cdn-api-auth.zztfly.com
+  - DOMAIN,cfgc.zztfly.com
+  - DOMAIN,lf-event-manager.oceanengine.com
+  - DOMAIN,loc.map.baidu.com
+  - DOMAIN,rcs.cmpassport.com
+  - DOMAIN,vod-license-m.volccdn.com
+  - DOMAIN,vod-settings.volcvod.com
